@@ -9,3 +9,6 @@ Example Data portals:
 https://nycopendata.socrata.com/  
 https://data.cityofchicago.org/  
 https://data.sfgov.org/
+
+*Additional Resources:*  
+http://www.data.gov/open-gov/
